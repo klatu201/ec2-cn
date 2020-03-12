@@ -1,0 +1,4 @@
+auto connect:i:1
+full address:s:{{=it.ip}}
+username:s:Administrator
+password 51:b:{{=it.pwd}}
